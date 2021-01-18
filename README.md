@@ -1,4 +1,4 @@
-# WAP Pluginn: WaPOR Hackathon Team 17
+# WAP Plugin: WaPOR Hackathon Team 17
 
 <img src="https://github.com/fhfonsecaa/wap_plugin/blob/master/img/WaPlugin_LogoScale.png">
 
